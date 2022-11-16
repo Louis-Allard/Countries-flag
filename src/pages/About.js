@@ -9,7 +9,7 @@ const About = () => {
             <Logo />
             <h1>A propos</h1>
             <br />
-            <p>la.devweb@yahoo.com</p>
+            <p>contact@louisallard.fr</p>
             <p>http://www.louisallard.fr</p>
             <p>Made with love and React JS</p>
         </div>
